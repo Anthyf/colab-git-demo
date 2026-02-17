@@ -1,1 +1,1 @@
-print('Local conflicting change')
+print('Hello from GitHub!')
